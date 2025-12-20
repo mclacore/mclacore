@@ -1,20 +1,8 @@
 ### Hi there! 👋
 
-I'm Michael, a **Platform Engineer** with a deep understanding of cloud infrastructure, automation, and developer tooling. Over the years, I've had the opportunity to design and manage cloud solutions, implement DevOps practices, and build platforms that empower teams to maximize their tech stack.
+I'm Michael, **Senior Platform Engineer** with proven success designing internal platforms that boost developer productivity and enable self-service production deployments. Skilled in cloud platforms (AWS, Azure), Terraform, systems thinking, and cross-team collaboration. Offers a strong work ethic and commitment to delivering reliable, accessible platform solutions that empower engineering teams and enhance operational stability.
 
-Recently, I’ve developed a strong passion for software development, focusing on creating efficient and impactful tools with **Go**, **JavaScript**, and **TypeScript**. I’m always excited to collaborate, learn, and contribute to innovative projects that solve real-world problems.
-
-<div align="center">
- <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
- <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
- <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/></code>
- <code><img width="50" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes"/></code>
- <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
- <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="Terraform" title="Terraform"/></code>
- <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" alt="Go" title="Go"/></code>
- <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
- <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
-</div><br/>
+Recently, I’ve developed a strong passion for software development, focusing on creating efficient and impactful tools with **Go**, **Python**, and **TypeScript**. I’m always excited to collaborate, learn, and contribute to innovative projects that solve real-world problems.
 
 List of my **personal** projects:
 
